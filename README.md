@@ -116,5 +116,7 @@ This is test project to manage notifications like Facebook.
 ## API Documentation
 
 API documentation is available and it's written as a Swagger:
+
 Once the server is running you can visit http://localhost:[port]/api/document to see the API documentation.
+
 Once the ui is running you can visit http://localhost:5173
